@@ -15,3 +15,5 @@
 * :grin:
 * :scream:
 * :imp:
+## CLI commands
+[CLI commands](docs/cli.md)
